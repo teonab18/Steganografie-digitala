@@ -1,0 +1,1 @@
+-e "node_modules/\ntarget/\nbin/\n.idea/\n.vscode/\n*.class/\ndist/\nbuild/" 
