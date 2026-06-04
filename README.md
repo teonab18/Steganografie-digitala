@@ -1,6 +1,5 @@
 # Steganografie Digitală
 ### ```<Bulearcă Teona-Cristina>```
-### Grupa: ```<Grupa 2>```
 #
 
 
